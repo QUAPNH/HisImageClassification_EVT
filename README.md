@@ -1,7 +1,7 @@
 # HisImageClassification_EVT
 The code of 'An enhanced vision transformer with wavelet position embedding for histopathological image classification'.
 
-Reference
+**Reference**
 @article{DingQZLXH23,
   author       = {Meidan Ding and
                   Aiping Qu and
